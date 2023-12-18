@@ -5,4 +5,3 @@ Goal of this project was to dive deep in gravity, collision and other functions 
 
 ![demo](https://i.imgur.com/XOQxEGs.png)
 
-demo video: https://www.youtube.com/watch?v=st57_SPp-ng
